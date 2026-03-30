@@ -6,3 +6,4 @@
 1. Complete the Builders & Founders mission on Guild.xyz.
 2. Deep dive into Aerodrome's liquidity mechanisms.
 ## Ecosystem Resources
+- [Official Docs](https://docs.base.org) - Core documentation for building on Base.
