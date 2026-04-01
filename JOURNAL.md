@@ -9,4 +9,4 @@
 - [Official Docs](https://docs.base.org) - Core documentation for building on Base.
 - [BaseScan](https://basescan.org) - Essential tool for tracking transactions and smart contracts.
 ## Monitored dApps
-- **Aerodrome:** Monitoring liquidity pools and swap efficiency on Base.
+
