@@ -10,3 +10,4 @@
 - [BaseScan](https://basescan.org) - Essential tool for tracking transactions and smart contracts.
 ## Monitored dApps
 - **Aerodrome:** Monitoring liquidity pools and swap efficiency on Base.
+- **Base Paint:** Tracking daily onchain collaborative art.
