@@ -13,3 +13,4 @@
 - **Base Paint:** Tracking daily onchain collaborative art.
 ## Gas & Network Performance
 - Monitoring Base gas fees to optimize transaction costs during high network activity.
+- [L2Fees](https://l2fees.info) - Useful tool to compare transaction costs across different rollups.
