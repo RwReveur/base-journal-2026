@@ -11,3 +11,4 @@
 ## Monitored dApps
 - **Aerodrome:** Monitoring liquidity pools and swap efficiency on Base.
 - **Base Paint:** Tracking daily onchain collaborative art.
+## Gas & Network Performance
