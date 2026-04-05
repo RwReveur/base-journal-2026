@@ -15,3 +15,4 @@
 - Monitoring Base gas fees to optimize transaction costs during high network activity.
 - [L2Fees](https://l2fees.info) - Useful tool to compare transaction costs across different rollups.
 ## Smart Contracts Study
+- Learning how to read verified contract source code on BaseScan.
