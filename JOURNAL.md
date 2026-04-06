@@ -17,3 +17,4 @@
 ## Smart Contracts Study
 - Learning how to read verified contract source code on BaseScan.
 - [OpenZeppelin](https://docs.openzeppelin.com) - Reference for secure smart contract standards.
+## Onchain Governance & Participation
