@@ -19,3 +19,4 @@
 - [OpenZeppelin](https://docs.openzeppelin.com) - Reference for secure smart contract standards.
 ## Onchain Governance & Participation
 - Monitoring [Snapshot](https://snapshot.org) for governance proposals in the Base ecosystem.
+- Goal: Participate in future community votes to help shape the network's decentralized future.
