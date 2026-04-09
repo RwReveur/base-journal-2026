@@ -20,3 +20,4 @@
 ## Onchain Governance & Participation
 - Monitoring [Snapshot](https://snapshot.org) for governance proposals in the Base ecosystem.
 - Goal: Participate in future community votes to help shape the network's decentralized future.
+## Project Milestones
