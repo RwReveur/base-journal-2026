@@ -22,3 +22,4 @@
 - Goal: Participate in future community votes to help shape the network's decentralized future.
 ## Project Milestones
 - [x] **Week 1:** Successfully initialized the journal and documented ecosystem fundamentals. ✅
+- [ ] **Week 2:** Exploration of Base bridges and advanced DeFi security.
