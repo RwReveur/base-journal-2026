@@ -25,3 +25,4 @@
 - [ ] **Week 2:** Exploration of Base bridges and advanced DeFi security.
 ## Bridge & Liquidity Management
 - **Official Bridge:** [Base Bridge](https://bridge.base.org) - The most secure way to move ETH to Base.
+- Verification: Always double-check bridge URLs to avoid phishing and ensure smart contract audits.
