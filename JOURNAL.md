@@ -31,3 +31,4 @@
 - [DexScreener](https://dexscreener.com) - Real-time price tracking for tokens on the Base network.
 ## The Superchain Ecosystem
 - Base is part of the Superchain, a network of L2s built on the OP Stack, sharing security and technology.
+- **Related Networks:** Optimism, Zora, Mode, and Fraxtal.
