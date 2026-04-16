@@ -32,3 +32,4 @@
 ## The Superchain Ecosystem
 - Base is part of the Superchain, a network of L2s built on the OP Stack, sharing security and technology.
 - **Related Networks:** Optimism, Zora, Mode, and Fraxtal.
+## NFTs & Onchain Culture
