@@ -36,3 +36,4 @@
 - [Zora](https://zora.co) - A major platform for minting and collecting digital art on Base.
 - Participation: Collecting commemorative NFTs to document my presence during key network milestones.
 ## Onchain Security & Hygiene
+- [Revoke.cash](https://revoke.cash) - Essential tool for managing and canceling token approvals on Base.
