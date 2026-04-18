@@ -37,3 +37,4 @@
 - Participation: Collecting commemorative NFTs to document my presence during key network milestones.
 ## Onchain Security & Hygiene
 - [Revoke.cash](https://revoke.cash) - Essential tool for managing and canceling token approvals on Base.
+- Practice: Regularly auditing wallet permissions and revoking access for dApps no longer in use.
