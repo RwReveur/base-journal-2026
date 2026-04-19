@@ -39,3 +39,4 @@
 - [Revoke.cash](https://revoke.cash) - Essential tool for managing and canceling token approvals on Base.
 - Practice: Regularly auditing wallet permissions and revoking access for dApps no longer in use.
 ## Education & Alpha Sources
+- [Base Mirror](https://base.mirror.xyz) - Official blog for deep dives into network upgrades and ecosystem news.
