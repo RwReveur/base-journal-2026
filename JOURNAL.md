@@ -45,3 +45,4 @@
 - **Warpcast (Farcaster):** Following the /base channel for real-time community updates and "alpha".
 ## Base Layer 3 (L3) & Application Specific Chains
 - Exploration: Studying L3 solutions built on top of Base for ultra-low-cost transactions and specialized use cases (Gaming, Social).
+- **Examples monitored:** Degen Chain, Syndicate Frame Chain.
