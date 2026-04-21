@@ -44,3 +44,4 @@
 - [Base Mirror](https://base.mirror.xyz) - Official blog for deep dives into network upgrades and ecosystem news.
 - **Warpcast (Farcaster):** Following the /base channel for real-time community updates and "alpha".
 ## Base Layer 3 (L3) & Application Specific Chains
+- Exploration: Studying L3 solutions built on top of Base for ultra-low-cost transactions and specialized use cases (Gaming, Social).
