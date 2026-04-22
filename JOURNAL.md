@@ -47,3 +47,4 @@
 - Exploration: Studying L3 solutions built on top of Base for ultra-low-cost transactions and specialized use cases (Gaming, Social).
 - **Examples monitored:** Degen Chain, Syndicate Frame Chain.
 ## Developer Tools & Local Testing
+- [Foundry](https://book.getfoundry.sh) - A blazing fast toolkit for Ethereum application development, often used on Base.
