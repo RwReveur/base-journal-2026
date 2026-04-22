@@ -46,3 +46,4 @@
 ## Base Layer 3 (L3) & Application Specific Chains
 - Exploration: Studying L3 solutions built on top of Base for ultra-low-cost transactions and specialized use cases (Gaming, Social).
 - **Examples monitored:** Degen Chain, Syndicate Frame Chain.
+## Developer Tools & Local Testing
