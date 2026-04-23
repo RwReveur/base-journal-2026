@@ -50,3 +50,4 @@
 - [Foundry](https://book.getfoundry.sh) - A blazing fast toolkit for Ethereum application development, often used on Base.
 - **Testing Environment:** Using Base Sepolia testnet to experiment without risking real assets.
 ## Token Standards & Interoperability
+- Studying core standards: **ERC-20** (Fungible tokens like USBC) and **ERC-721** (Non-fungible tokens/NFTs).
