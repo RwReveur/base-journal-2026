@@ -49,3 +49,4 @@
 ## Developer Tools & Local Testing
 - [Foundry](https://book.getfoundry.sh) - A blazing fast toolkit for Ethereum application development, often used on Base.
 - **Testing Environment:** Using Base Sepolia testnet to experiment without risking real assets.
+## Token Standards & Interoperability
