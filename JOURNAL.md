@@ -51,3 +51,4 @@
 - **Testing Environment:** Using Base Sepolia testnet to experiment without risking real assets.
 ## Token Standards & Interoperability
 - Studying core standards: **ERC-20** (Fungible tokens like USBC) and **ERC-721** (Non-fungible tokens/NFTs).
+- **Account Abstraction (ERC-4337):** Monitoring the implementation of smart wallets for better user experience on Base.
