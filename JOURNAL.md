@@ -53,3 +53,5 @@
 - Studying core standards: **ERC-20** (Fungible tokens like USBC) and **ERC-721** (Non-fungible tokens/NFTs).
 - **Account Abstraction (ERC-4337):** Monitoring the implementation of smart wallets for better user experience on Base.
 ## Data Oracles & External Feeds
+- **Chainlink:** Monitoring price feeds for secure DeFi operations on Base.
+- **Pyth Network:** Tracking low-latency financial data used by many Base protocols.
