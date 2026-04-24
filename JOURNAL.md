@@ -55,3 +55,4 @@
 ## Data Oracles & External Feeds
 - **Chainlink:** Monitoring price feeds for secure DeFi operations on Base.
 - **Pyth Network:** Tracking low-latency financial data used by many Base protocols.
+- Concept: Understanding how decentralized oracles prevent price manipulation and "flash loan" attacks.
