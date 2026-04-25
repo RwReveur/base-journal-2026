@@ -57,3 +57,4 @@
 - **Pyth Network:** Tracking low-latency financial data used by many Base protocols.
 - Concept: Understanding how decentralized oracles prevent price manipulation and "flash loan" attacks.
 ## Blockchain Indexing & Querying
+- [The Graph](https://thegraph.com) - Utilizing subgraphs to query historical and real-time data on Base efficiently.
