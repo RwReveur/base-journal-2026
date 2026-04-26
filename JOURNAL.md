@@ -61,3 +61,4 @@
 - Purpose: Understanding how indexing services power the front-ends of our favorite dApps (Aerodrome, Uniswap).
 ## Ecosystem Funding & Support
 - **Base Ecosystem Fund:** Monitoring investment trends in projects building next-gen onchain apps.
+- **Public Goods:** Exploring [Gitcoin](https://gitcoin.co) rounds for supporting open-source development on the Base network.
