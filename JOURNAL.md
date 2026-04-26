@@ -59,3 +59,4 @@
 ## Blockchain Indexing & Querying
 - [The Graph](https://thegraph.com) - Utilizing subgraphs to query historical and real-time data on Base efficiently.
 - Purpose: Understanding how indexing services power the front-ends of our favorite dApps (Aerodrome, Uniswap).
+## Ecosystem Funding & Support
