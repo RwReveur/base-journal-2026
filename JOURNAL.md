@@ -64,3 +64,4 @@
 ## Ecosystem Funding & Support
 - **Base Ecosystem Fund:** Monitoring investment trends in projects building next-gen onchain apps.
 - **Public Goods:** Exploring [Gitcoin](https://gitcoin.co) rounds for supporting open-source development on the Base network.
+## Onchain Analytics & Data Visualization
