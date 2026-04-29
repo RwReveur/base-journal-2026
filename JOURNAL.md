@@ -65,3 +65,4 @@
 - **Base Ecosystem Fund:** Monitoring investment trends in projects building next-gen onchain apps.
 - **Public Goods:** Exploring [Gitcoin](https://gitcoin.co) rounds for supporting open-source development on the Base network.
 ## Onchain Analytics & Data Visualization
+- [Dune Analytics](https://dune.com) - Exploring community dashboards to track Base's Total Value Locked (TVL) and daily active users.
