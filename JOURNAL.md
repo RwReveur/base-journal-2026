@@ -67,3 +67,4 @@
 ## Onchain Analytics & Data Visualization
 - [Dune Analytics](https://dune.com) - Exploring community dashboards to track Base's Total Value Locked (TVL) and daily active users.
 - Goal: Learning to interpret "Stickiness" and "User Retention" metrics to identify sustainable projects on Base.
+- [GrowThePie](https://www.growthepie.xyz) - Comparing Base's fundamental metrics (TPS, Fees, Activity) with other L2 ecosystems.
