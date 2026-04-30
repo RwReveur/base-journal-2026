@@ -69,3 +69,4 @@
 - Goal: Learning to interpret "Stickiness" and "User Retention" metrics to identify sustainable projects on Base.
 - [GrowThePie](https://www.growthepie.xyz) - Comparing Base's fundamental metrics (TPS, Fees, Activity) with other L2 ecosystems.
 - Monitoring Stablecoin Market Cap on Base as a key indicator of liquidity and network health.
+- Concept: Understanding the "L2-centric" roadmap of Ethereum and how Base scales the mainnet.
